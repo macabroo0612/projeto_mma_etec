@@ -40,6 +40,9 @@ img{
 footer{
     background-color: #d20a0a;
     text-align: center;
+    padding: 20px;
+    clear: both;
+    margin-top: 50px;
 }
 
 table{
